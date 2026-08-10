@@ -112,6 +112,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=00C7B7)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0F172A?style=flat-square&logo=pydantic&logoColor=E92063)
 ![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0F172A?style=flat-square&logo=ollama&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-0F172A?style=flat-square&logo=pydantic&logoColor=E92063)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED)
@@ -120,15 +123,6 @@
 ![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=EA4B71)
 
 </div>
-
-## 💼 经历一览
-
-```text
-AI 应用开发工程师    义乌促佳贸易          2026.03 - 2026.06
-RPA 智能体开发工程师 福建拉美供应链科技    2024.12 - 2026.03
-数据开发工程师       上海任意门科技        2023.07 - 2024.11
-运维工程师（实习）   广州拓服信息技术      2023.02 - 2023.06
-```
 
 ## 📫 联系我
 
